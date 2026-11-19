@@ -1,0 +1,46 @@
+
+# Ambiente virtual Python
+venv/
+.venv/
+env/
+
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos de configuração local
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribuição e pacotes
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de saída gerados pelo programa
+output/*
+!output/.gitkeep
