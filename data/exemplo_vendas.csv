@@ -1,0 +1,11 @@
+data,produto,categoria,quantidade,preco_unitario,vendedor
+2026-10-01,Notebook Dell,Eletrônicos,2,3500.00,Ana
+2026-10-01,Mouse Sem Fio ,Acessórios,5,85.50,Carlos
+2026-10-02,teclado mecânico,acessórios,3,250.00,Ana
+2026-10-02,Monitor 24",Eletrônicos,-1,900.00,João
+2026-10-03,,Acessórios,2,120.00,Carlos
+2026-10-04,Mouse Sem Fio,Acessórios,4,85.50,Ana
+2026-10-04,Mouse Sem Fio,Acessórios,4,85.50,Ana
+data_invalida,Cadeira Gamer,Móveis,1,1200.00,João
+2026-10-05,Notebook Dell,Eletrônicos,1,,Carlos
+2026-10-06,Headset USB,Acessórios,6,180.00,Ana
